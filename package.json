@@ -1,0 +1,23 @@
+{
+  "name": "shopware6-playwright-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BesartMulliqi23/shopware6-playwright-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BesartMulliqi23/shopware6-playwright-e2e/issues"
+  },
+  "homepage": "https://github.com/BesartMulliqi23/shopware6-playwright-e2e#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  }
+}
